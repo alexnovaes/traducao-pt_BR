@@ -1,0 +1,13 @@
+{
+  "name": "alexnovaes/traducao_magento2_pt_br",
+  "description": "Tradução Magento 2 para Português do Brasil oficial da Magento ",
+  "license": [
+    "MIT"
+  ],
+  "type": "magento2-language",
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
